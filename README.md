@@ -24,3 +24,6 @@ Implementing basic machine learning algorithms in jupyter notbooks using Python,
 
 * Implementing the backpropagation algorithm for learning the neural network parameters 
 
+<h3>Pytorch</h3>
+
+* Training a classifier using pytorch from the tutorial: https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html#sphx-glr-beginner-blitz-cifar10-tutorial-py
